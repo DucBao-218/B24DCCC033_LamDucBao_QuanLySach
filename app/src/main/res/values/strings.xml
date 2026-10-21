@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý thư viện sách</string>
+    <string name="login_title">Thư viện sách</string>
+    <string name="login_subtitle">Đăng nhập để tiếp tục</string>
+    <string name="label_username">Tên đăng nhập</string>
+    <string name="hint_username">Nhập tên đăng nhập</string>
+    <string name="label_password">Mật khẩu</string>
+    <string name="btn_login">Đăng nhập</string>
+    <string name="sample_account_hint">Tài khoản mẫu: admin / 123456</string>
+    <string name="error_login_invalid">Sai tên đăng nhập hoặc mật khẩu</string>
+    <string name="error_fields_empty">Vui lòng nhập đầy đủ tên đăng nhập và mật khẩu</string>
+
+    <string name="main_title">Thư viện của tôi</string>
+    <string name="stat_title">Thống kê</string>
+    <string name="stat_total">Tổng số sách</string>
+    <string name="stat_read">Đã đọc</string>
+    <string name="stat_unread">Chưa đọc xong</string>
+    <string name="section_book_list">Danh sách sách</string>
+    <string name="hint_click_book">(nhấn vào một cuốn sách để xem chi tiết)</string>
+    <string name="btn_add_book">+ Thêm sách</string>
+
+    <string name="add_book_title">Thêm sách</string>
+    <string name="label_book_title">Tên sách</string>
+    <string name="hint_book_title">Ví dụ: Đắc nhân tâm</string>
+    <string name="label_author">Tác giả</string>
+    <string name="hint_author">Ví dụ: Dale Carnegie</string>
+    <string name="label_category">Thể loại</string>
+    <string name="label_status">Tình trạng đọc</string>
+    <string name="status_not_read">Chưa đọc</string>
+    <string name="status_reading">Đang đọc</string>
+    <string name="status_read">Đã đọc</string>
+    <string name="label_rating">Đánh giá</string>
+    <string name="label_notes">Ghi chú</string>
+    <string name="hint_notes">Nhập ghi chú (nhiều dòng)...</string>
+    <string name="btn_save_book">Lưu sách</string>
+    <string name="error_empty_title">Tên sách không được để trống</string>
+    <string name="error_empty_author">Tác giả không được để trống</string>
+
+    <string name="detail_title">Chi tiết sách</string>
+    <string name="btn_mark_read">Đánh dấu đã đọc</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete">Xóa sách</string>
+    <string name="no_notes">Không có ghi chú</string>
+</resources>
